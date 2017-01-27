@@ -1,0 +1,13 @@
+{
+  "name": "twitter_disable_moment_tab",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Twitterのモーメントタブが突然とんでもない位置に出てきたので死ねという気持ちで作った",
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/","https://twitter.com/*"],
+      "js": ["jquery-3.1.1.min.js", "main.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
