@@ -1,7 +1,7 @@
 # これは何
 
 こいつが邪魔
-![twitter_moment](http://imgur.com/a/fwrGO)
+![twitter_moment](http://i.imgur.com/a/fwrGO)
 
 # インストール
 
