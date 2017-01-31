@@ -1,9 +1,9 @@
-# これは何
+### これは何
 
 こいつが邪魔
-![twitter_moment](http://i.imgur.com/a/fwrGO)
+![twitter_moment](http://i.imgur.com/fwrGO)
 
-# インストール
+### インストール
 
 Google Chromeの拡張機能ページにて`デベロッパーモード`を有効にして、`パッケージ化されていない拡張機能を読み込む`からこのリポジトリをクローンして展開したやつを選択するだけ
 
